@@ -15,7 +15,7 @@
     "better-scroll": "^1.15.2",
     "bootstrap": "^3.3.7",
     "core-js": "^3.6.4",
-    "swiper": "^5.4.2",
+    "swiper": "^6.5.1",
     "vant": "^2.5.4",
     "vant-weapp": "^0.5.27",
     "vue": "^2.6.11",
@@ -35,7 +35,7 @@
     "eslint-plugin-vue": "^6.1.2",
     "sass": "^1.25.0",
     "sass-loader": "^8.0.2",
-    "swiper": "^5.4.2",
+    "swiper": "^6.5.1",
     "vant": "^2.5.4",
     "vue-template-compiler": "^2.6.11"
   }
